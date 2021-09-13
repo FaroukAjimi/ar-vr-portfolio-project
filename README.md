@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04286ba2eca5f1bece5fd4cee61f0300737c3de3ee4ac8e2491d35d8daf2f3a6
-size 26
+About The Project:
+Introduction:
+An interactive game dedicated for young audiences to raise awareness on sea pollution and protect the environment alternate reality of Tunisian cities.
+
+Description:
+A linear adventure driven story about a young kid called Ghada who lives in the Tunisian Sahara that decides to go on a quest to explore the different seas of Tunisia. It’s set to educate kids on the importance of sea life and go through mini games and quizzes about sea facts.
+
+Team: 
+Farouk Ben Ajimi: https://www.linkedin.com/in/faroukbenajimi/
+Mohamed Aziz Ayed: https://www.linkedin.com/in/azizayed5/
+
+Credits:
+Adobe Mixamo©
+
+Music:
+All sounds and music used in this project are free to use
